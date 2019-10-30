@@ -22,7 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     func applicationDidEnterBackground(_ application: UIApplication) {
         
-        print("Application did enter background")
+     
     }
     
     func applicationWillTerminate(_ application: UIApplication) {
